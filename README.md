@@ -1,1 +1,1 @@
-# st_typescript
+### typescript learning repository
